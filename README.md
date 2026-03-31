@@ -7,7 +7,7 @@ This project demonstrates how **client-side machine learning** can be integrated
 
 ---
 
-# Features
+## Features
 
 - Upload an image from your device  
 - Automatic **AI-based background removal**  
@@ -19,7 +19,7 @@ This project demonstrates how **client-side machine learning** can be integrated
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the application  
 - **CSS3** – Modern UI styling and layout  
@@ -29,7 +29,7 @@ This project demonstrates how **client-side machine learning** can be integrated
 
 ---
 
-# How It Works
+## How It Works
 
 1. The user uploads an image.  
 2. The image is loaded into a **canvas element**.  
@@ -40,5 +40,71 @@ This project demonstrates how **client-side machine learning** can be integrated
 
 ---
 
-# Project Structure
+## Project Structure
 
+```
+background-remover
+
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## Installation & Usage
+
+### 1. Download or clone the repository
+
+```bash
+git clone https://github.com/yourusername/background-remover.git
+```
+
+### 2. Open the project folder
+
+### 3. Run the project by opening
+
+```
+index.html
+```
+
+in your browser.
+
+No server or installation is required since the project runs completely in the browser.
+
+---
+
+## Limitations
+
+- Works best with **human subjects**  
+- Performance depends on **device hardware**  
+- Complex backgrounds may not always produce perfect results  
+
+---
+
+## Future Improvements
+
+- Before/After image comparison slider  
+- Support for object segmentation  
+- Background replacement options  
+- Image cropping tools  
+- Drag-and-drop preview animation  
+- Faster ML models  
+
+---
+
+## Learning Outcomes
+
+This project demonstrates:
+
+- Integrating **machine learning models in web applications**  
+- Using **TensorFlow.js for browser-based AI**  
+- Image processing with the **HTML Canvas API**  
+- Creating interactive **front-end interfaces**
+
+---
+
+## License
+
+This project is open-source and available under the **MIT License**.
