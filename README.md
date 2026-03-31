@@ -58,7 +58,7 @@ background-remover
 ### 1. Download or clone the repository
 
 ```bash
-git clone https://github.com/yourusername/background-remover.git
+git clone https://github.com/rxdransh/CV_Project.git
 ```
 
 ### 2. Open the project folder
