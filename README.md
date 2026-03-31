@@ -1,11 +1,11 @@
-AI Background Remover
+**AI Background Remover**
 
 A lightweight web-based AI background removal tool built using HTML, CSS, and JavaScript.
 The application uses TensorFlow.js and the BodyPix model to perform person segmentation directly in the browser, allowing users to remove image backgrounds without relying on external APIs.
 
 This project demonstrates how client-side machine learning can be integrated into modern web applications.
 
-Features
+**Features**
 Upload an image from your device
 Automatic AI-based background removal
 Runs completely in the browser
@@ -44,7 +44,7 @@ in your browser.
 
 No server or installation is required since the project runs completely in the browser.
 
-Limitations
+**Limitations**
 Works best with human subjects
 Performance depends on device hardware
 Complex backgrounds may not always produce perfect results
@@ -57,12 +57,13 @@ Drag-and-drop preview animation
 Faster ML models
 Learning Outcomes
 
-This project demonstrates:
+**This project demonstrates:**
 
 Integrating machine learning models in web applications
 Using TensorFlow.js for browser-based AI
 Image processing with the HTML Canvas API
 Creating interactive front-end interfaces
-License
 
-This project is open-source and available under the MIT License.
+**License**
+
+**This project is open-source and available under the **
