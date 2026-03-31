@@ -28,11 +28,11 @@ The processed image is rendered on the canvas.
 The user can download the result.
 Project Structure
 background-remover
-│
-├── index.html      # Main UI structure
-├── style.css       # Styling and layout
-├── script.js       # Background removal logic
-└── README.md       # Project documentation
+
+--> index.html      # Main UI structure
+--> style.css       # Styling and layout
+--> script.js       # Background removal logic
+--> README.md       # Project documentation
 Installation & Usage
 Download or clone the repository.
 git clone https://github.com/yourusername/background-remover.git
